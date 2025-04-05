@@ -1,4 +1,3 @@
-```markdown
 # Минимакс
 
 ## Описание задачи
@@ -43,7 +42,7 @@ clear
 get_max
 insert 8
 extract_max
-``
+```
 
 ### Вывод
 ```
